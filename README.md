@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm K.Yashwanth</h1>
+<h1 align="center">Hi 👋, I'm Yashwanth</h1>
 <h3 align="center">INTERMEDIATE DEVELOPER</h3>
 <h3 align="center">A passionate Full-stack developer.</h3>
 
